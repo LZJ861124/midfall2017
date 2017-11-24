@@ -7,8 +7,4 @@
     "url": "../htdocs/assets/css/styles.css",
     "type": "text/css"
   },
-  "/Sokoban.js": {
-    "url": "../htdocs/js/Sokoban.js",
-    "type": "text/js"
-  },
 }

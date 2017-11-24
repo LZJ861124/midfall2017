@@ -31,7 +31,7 @@ let serve = (response, fname, datatype) => {
 
   fs.readFile(fname, (err, data) => {
     if (err) {
-      console.log('檔案讀取錯誤：' + fname);
+      console.log('檔案讀取錯誤');
     }
     else {
       response.writeHead(200, {
