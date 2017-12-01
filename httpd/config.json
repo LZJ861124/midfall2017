@@ -8,7 +8,7 @@
     "type": "text/css"
   },
   "/Sokoban.js": {
-    "url": "../htdocs/js/Sokoban",
+    "url": "../htdocs/js/Sokoban.js",
     "type": "text/javascript"
   }
 }
